@@ -24,6 +24,6 @@
   height: 75px;
   opacity: 0.8;
 }
-.gallery-thumbs .swiper-slide-thumb-active {
+.gallery-thumbs .swiper-slide-active {
   opacity: 1;
 }
